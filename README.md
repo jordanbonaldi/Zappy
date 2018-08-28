@@ -9,7 +9,7 @@ The goal of this Epitech project was to create a network game with several clien
  - Qt v5.6.9
 
 ## Server
- You can compile the server using
+ You can compile only the server using
  - make server
 
 ## Authors
