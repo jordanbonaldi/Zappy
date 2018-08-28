@@ -8,6 +8,10 @@ The goal of this Epitech project was to create a network game with several clien
  - Irrlicht library v1.8.4
  - Qt v5.6.9
 
+## Server
+ You can compile the server using
+ - make server
+
 ## Authors
  - Jordan Bonaldi - Server (using C-Language) - [Github](https://github.com/jordanbonaldi)
  - Lucas Benkemoun - AI - [Github](https://github.com/LeBenki) 
