@@ -3,7 +3,7 @@
 ## Description
 The goal of this Epitech project was to create a network game with several client.
 
-## System requirements
+## Graphic requirements
  - OpenGL
  - Irrlicht library v1.8.4
  - Qt v5.6.9
