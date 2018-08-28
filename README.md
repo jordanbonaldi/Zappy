@@ -9,9 +9,10 @@ The goal of this Epitech project was to create a network game with several clien
  - Qt v5.6.9
 
 ## Authors
+ - Jordan Bonaldi - Server (using C-Language) - [Github](https://github.com/jordanbonaldi)
  - Lucas Benkemoun - AI - [Github](https://github.com/LeBenki) 
  - Issam Mahsoume - Graphic
+ - Simon Bineau - Graphic
  - Alexandre Babonneau - Designer - [Github](https://github.com/FWolowitz)
- - Simon Bineau - Graphic -
  - Baptiste Coudoulet - Controller - [Github](https://github.com/bc2606)
- - Jordan Bonaldi - Server (using C-Language) - [Github](https://github.com/jordanbonaldi)
+
