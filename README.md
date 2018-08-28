@@ -9,9 +9,9 @@ The goal of this Epitech project was to create a network game with several clien
  - Qt v5.6.9
 
 ## Authors
- - Lucas Benkemoun - [Github](https://github.com/LeBenki)
- - Issam Mahsoume
- - Alexandre Babonneau - [Github](https://github.com/FWolowitz)
- - Simon Bineau
- - Baptiste Coudoulet - [Github](https://github.com/bc2606)
- - Jordan Bonaldi
+ - Lucas Benkemoun - IA - [Github](https://github.com/LeBenki) 
+ - Issam Mahsoume - Graphic
+ - Alexandre Babonneau - Graphic - [Github](https://github.com/FWolowitz)
+ - Simon Bineau - Graphic -
+ - Baptiste Coudoulet - Controller - [Github](https://github.com/bc2606)
+ - Jordan Bonaldi - Server - [Github](https://github.com/jordanbonaldi)
